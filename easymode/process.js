@@ -114,7 +114,7 @@ function won(){
 	myStopFunction();
 	au=document.getElementById("cheers");
 	au.play();
-	checkHighScore(scoreCT);
+	setTimeout(() => { checkHighScore(scoreCT);console.log('came in');}, 1000);
 	restart=1;
 	moves=-1;
 }
