@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithilesh K</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithmusq3&label=Profile%20views&color=0e75b6&style=flat" alt="mithmusq3" /> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mithmusq3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mithmusq3" height="30" width="40" /></a>
 </p>
@@ -18,3 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithmusq3&show_icons=true&locale=en" alt="mithmusq3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithmusq3&" alt="mithmusq3" /></p>
+
+<h3 align="left">Connect with me:</h3>
